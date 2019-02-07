@@ -4,7 +4,7 @@ La aplicación web consiste en que usuarios registrados pueden prestar servicios
 
 
 Link a Trello: https://trello.com/b/nddgiXuj/proyectofinal
-
+Link a Draw: https://drive.google.com/file/d/1QdHOvEzF_4Yu6ASSc44i0QlzGsA2M8nn/view?usp=sharing
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
